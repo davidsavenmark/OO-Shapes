@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davidau20/Projects/OO-Shapes/OO-Shapes/OO-Shapes.csproj": {}
+  },
+  "projects": {
+    "/Users/davidau20/Projects/OO-Shapes/OO-Shapes/OO-Shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidau20/Projects/OO-Shapes/OO-Shapes/OO-Shapes.csproj",
+        "projectName": "OO-Shapes",
+        "projectPath": "/Users/davidau20/Projects/OO-Shapes/OO-Shapes/OO-Shapes.csproj",
+        "packagesPath": "/Users/davidau20/.nuget/packages/",
+        "outputPath": "/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidau20/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
