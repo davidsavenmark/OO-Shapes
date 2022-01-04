@@ -1,0 +1,15 @@
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.csproj.AssemblyReference.cache
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.AssemblyInfoInputs.cache
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.AssemblyInfo.cs
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.csproj.CoreCompileInputs.cache
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/OO-Shapes.deps.json
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/OO-Shapes.runtimeconfig.json
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/OO-Shapes.runtimeconfig.dev.json
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/OO-Shapes.dll
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/ref/OO-Shapes.dll
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/bin/Debug/net5.0/OO-Shapes.pdb
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.dll
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/ref/OO-Shapes.dll
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.pdb
+/Users/davidau20/Projects/OO-Shapes/OO-Shapes/obj/Debug/net5.0/OO-Shapes.genruntimeconfig.cache
