@@ -3,7 +3,7 @@ namespace OO_Shapes
 {
     public class Square : Shape
     {
-        public double sideLength { get; set; }
+        public double SideLength { get; set; }
 
         public Square(double sideLength)
         {
