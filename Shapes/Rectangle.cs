@@ -3,8 +3,8 @@ namespace OO_Shapes
 {
     public class Rectangle : Shape
     {
-        public double height { get; set; }
-        public double width { get; set; }
+        public double Height { get; set; }
+        public double Width { get; set; }
 
         public Rectangle(double height, double width): this(width)
         {
