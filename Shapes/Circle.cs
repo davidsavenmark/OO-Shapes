@@ -5,7 +5,7 @@ namespace OO_Shapes
     {
         
 
-        public double radius { get; set; }
+        public double Radius { get; set; }
 
         public Circle(double radius)
         {
